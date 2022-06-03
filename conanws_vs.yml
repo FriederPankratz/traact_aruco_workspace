@@ -1,0 +1,9 @@
+editables:
+    traact_component_aruco/0.0.1@camposs/stable:
+        path: traact_component_aruco
+    aruco_test_app/0.0.1@camposs/stable:
+            path: aruco_test_app
+    
+layout: layout_vs
+workspace_generator: cmake
+root: aruco_test_app/0.0.1@camposs/stable
